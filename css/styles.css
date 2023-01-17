@@ -775,7 +775,7 @@ a {
 /* Features */
 .feature {
     gap: 4rem;
-    margin: 12rem;
+    margin: 2rem;
 }
 
 .feature:first-of-type {
